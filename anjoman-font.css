@@ -1,0 +1,110 @@
+@font-face {
+    font-family: Anjoman;
+    font-display: swap;
+    src: url('font/Anjoman/Anjoman-ExtraLight.eot');
+    src: url('font/Anjoman/Anjoman-ExtraLight.eot?#iefix') format('embedded-opentype'),
+    url('font/Anjoman/Anjoman-ExtraLight.woff2') format('woff2'),
+    url('font/Anjoman/Anjoman-ExtraLight.woff') format('woff'),
+    url('font/Anjoman/Anjoman-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+    font-display: swap;
+    src: url('font/Anjoman/Anjoman-Light.eot');
+    src: url('font/Anjoman/Anjoman-Light.eot?#iefix') format('embedded-opentype'),
+    url('font/Anjoman/Anjoman-Light.woff2') format('woff2'),
+    url('font/Anjoman/Anjoman-Light.woff') format('woff'),
+    url('font/Anjoman/Anjoman-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+    font-display: swap;
+    src: url('font/Anjoman/Anjoman-Regular.eot');
+    src: url('font/Anjoman/Anjoman-Regular.eot?#iefix') format('embedded-opentype'),
+    url('font/Anjoman/Anjoman-Regular.woff2') format('woff2'),
+    url('font/Anjoman/Anjoman-Regular.woff') format('woff'),
+    url('font/Anjoman/Anjoman-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+    font-display: swap;
+    src: url('font/Anjoman/Anjoman-Medium.eot');
+    src: url('font/Anjoman/Anjoman-Medium.eot?#iefix') format('embedded-opentype'),
+    url('font/Anjoman/Anjoman-Medium.woff2') format('woff2'),
+    url('font/Anjoman/Anjoman-Medium.woff') format('woff'),
+    url('font/Anjoman/Anjoman-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+    font-display: swap;
+    src: url('font/Anjoman/Anjoman-SemiBold.eot');
+    src: url('font/Anjoman/Anjoman-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('font/Anjoman/Anjoman-SemiBold.woff2') format('woff2'),
+    url('font/Anjoman/Anjoman-SemiBold.woff') format('woff'),
+    url('font/Anjoman/Anjoman-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+    font-display: swap;
+    src: url('font/Anjoman/Anjoman-Bold.eot');
+    src: url('font/Anjoman/Anjoman-Bold.eot?#iefix') format('embedded-opentype'),
+    url('font/Anjoman/Anjoman-Bold.woff2') format('woff2'),
+    url('font/Anjoman/Anjoman-Bold.woff') format('woff'),
+    url('font/Anjoman/Anjoman-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+    font-display: swap;
+    src: url('font/Anjoman/Anjoman-ExtraBold.eot');
+    src: url('font/Anjoman/Anjoman-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('font/Anjoman/Anjoman-ExtraBold.woff2') format('woff2'),
+    url('font/Anjoman/Anjoman-ExtraBold.woff') format('woff'),
+    url('font/Anjoman/Anjoman-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+    font-display: swap;
+    src: url('font/Anjoman/Anjoman-UltraBold.eot');
+    src: url('font/Anjoman/Anjoman-UltraBold.eot?#iefix') format('embedded-opentype'),
+    url('font/Anjoman/Anjoman-UltraBold.woff2') format('woff2'),
+    url('font/Anjoman/Anjoman-UltraBold.woff') format('woff'),
+    url('font/Anjoman/Anjoman-UltraBold.ttf') format('truetype');
+    font-weight: 850;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+    font-display: swap;
+    src: url('font/Anjoman/Anjoman-Black.eot');
+    src: url('font/Anjoman/Anjoman-Black.eot?#iefix') format('embedded-opentype'),
+    url('font/Anjoman/Anjoman-Black.woff2') format('woff2'),
+    url('font/Anjoman/Anjoman-Black.woff') format('woff'),
+    url('font/Anjoman/Anjoman-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: Anjoman;
+    font-display: swap;
+    src: url('font/Anjoman/Anjoman-Heavy.eot');
+    src: url('font/Anjoman/Anjoman-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('font/Anjoman/Anjoman-Heavy.woff2') format('woff2'),
+    url('font/Anjoman/Anjoman-Heavy.woff') format('woff'),
+    url('font/Anjoman/Anjoman-Heavy.ttf') format('truetype');
+    font-weight: 950;
+    font-style: normal;
+}
