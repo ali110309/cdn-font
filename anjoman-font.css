@@ -147,9 +147,9 @@
     font-family: AnjomanFN;
     font-display: swap;
     src: url('font/AnjomanFN/AnjomanFaNum-UltraBold.eot?#iefix') format('embedded-opentype'),
-    url('font/AnjomanFN/AnjomanFaNum-UltraBold') format('woff2'),
-    url('font/AnjomanFN/AnjomanFaNum-UltraBold') format('woff'),
-    url('font/AnjomanFN/AnjomanFaNum-UltraBold') format('truetype');
+    url('font/AnjomanFN/AnjomanFaNum-UltraBold.woff2') format('woff2'),
+    url('font/AnjomanFN/AnjomanFaNum-UltraBold.woff') format('woff'),
+    url('font/AnjomanFN/AnjomanFaNum-UltraBold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
