@@ -1,0 +1,100 @@
+@font-face {
+    font-family: Shabnam;
+    font-display:swap;
+    src: url('font/Shabnam/Shabnam-Thin.eot');
+    src: url('font/Shabnam/Shabnam-Thin.eot?#iefix') format('embedded-opentype'),
+    url('font/Shabnam/Shabnam-Thin.woff2') format('woff2'),
+    url('font/Shabnam/Shabnam-Thin.woff') format('woff'),
+    url('font/Shabnam/Shabnam-Thin.ttf') format('truetype');
+    font-weight: 100;
+}
+@font-face {
+    font-family: Shabnam;
+    font-display:swap;
+    src: url('font/Shabnam/Shabnam-Light.eot');
+    src: url('font/Shabnam/Shabnam-Light.eot?#iefix') format('embedded-opentype'),
+    url('font/Shabnam/Shabnam-Light.woff2') format('woff2'),
+    url('font/Shabnam/Shabnam-Light.woff') format('woff'),
+    url('font/Shabnam/Shabnam-Light.ttf') format('truetype');
+    font-weight: 300;
+}
+@font-face {
+    font-family: Shabnam;
+    font-display:swap;
+    src: url('font/Shabnam/Shabnam.eot');
+    src: url('font/Shabnam/Shabnam.eot?#iefix') format('embedded-opentype'),
+    url('font/Shabnam/Shabnam.woff2') format('woff2'),
+    url('font/Shabnam/Shabnam.woff') format('woff'),
+    url('font/Shabnam/Shabnam.ttf') format('truetype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: Shabnam;
+    font-display:swap;
+    src: url('font/Shabnam/Shabnam-Medium.eot');
+    src: url('font/Shabnam/Shabnam-Medium.eot?#iefix') format('embedded-opentype'),
+    url('font/Shabnam/Shabnam-Medium.woff2') format('woff2'),
+    url('font/Shabnam/Shabnam-Mediumd.woff') format('woff'),
+    url('font/Shabnam/Shabnam-Medium.ttf') format('truetype');
+    font-weight: 500;
+}
+@font-face {
+    font-family: Shabnam;
+    font-display:swap;
+    src: url('font/Shabnam/Shabnam-Bold.eot');
+    src: url('font/Shabnam/Shabnam-Bold.eot?#iefix') format('embedded-opentype'),
+    url('font/Shabnam/Shabnam-Bold.woff2') format('woff2'),
+    url('font/Shabnam/Shabnam-Bold.woff') format('woff'),
+    url('font/Shabnam/Shabnam-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+@font-face {
+    font-family: ShabnamFN;
+    font-display:swap;
+    src: url('font/ShabnamFN/Shabnam-Thin-FD.eot');
+    src: url('font/ShabnamFN/Shabnam-Thin-FD.eot?#iefix') format('embedded-opentype'),
+    url('font/ShabnamFN/Shabnam-Thin-FD.woff2') format('woff2'),
+    url('font/ShabnamFN/Shabnam-Thin-FD.woff') format('woff'),
+    url('font/ShabnamFN/Shabnam-Thin-FD.ttf') format('truetype');
+    font-weight: 100;
+}
+@font-face {
+    font-family: ShabnamFN;
+    font-display:swap;
+    src: url('font/ShabnamFN/Shabnam-Light-FD.eot');
+    src: url('font/ShabnamFN/Shabnam-Light-FD.eot?#iefix') format('embedded-opentype'),
+    url('font/ShabnamFN/Shabnam-Light-FD.woff2') format('woff2'),
+    url('font/ShabnamFN/Shabnam-Light-FD.woff') format('woff'),
+    url('font/ShabnamFN/Shabnam-Light-FD.ttf') format('truetype');
+    font-weight: 300;
+}
+@font-face {
+    font-family: ShabnamFN;
+    font-display:swap;
+    src: url('font/ShabnamFN/Shabnam-FD.eot');
+    src: url('font/ShabnamFN/Shabnam-FD.eot?#iefix') format('embedded-opentype'),
+    url('font/ShabnamFN/Shabnam-FD.woff2') format('woff2'),
+    url('font/ShabnamFN/Shabnam-FD.woff') format('woff'),
+    url('font/ShabnamFN/Shabnam-FD.ttf') format('truetype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: ShabnamFN;
+    font-display:swap;
+    src: url('font/ShabnamFN/Shabnam-Medium-FD.eot');
+    src: url('font/ShabnamFN/Shabnam-Medium-FD.eot?#iefix') format('embedded-opentype'),
+    url('font/ShabnamFN/Shabnam-Medium-FD.woff2') format('woff2'),
+    url('font/ShabnamFN/Shabnam-Medium-FDD.woff') format('woff'),
+    url('font/ShabnamFN/Shabnam-Medium-FD.ttf') format('truetype');
+    font-weight: 500;
+}
+@font-face {
+    font-family: ShabnamFN;
+    font-display:swap;
+    src: url('font/ShabnamFN/Shabnam-Bold-FD.eot');
+    src: url('font/ShabnamFN/Shabnam-Bold-FD.eot?#iefix') format('embedded-opentype'),
+    url('font/ShabnamFN/Shabnam-Bold-FD.woff2') format('woff2'),
+    url('font/ShabnamFN/Shabnam-Bold-FD.woff') format('woff'),
+    url('font/ShabnamFN/Shabnam-Bold-FD.ttf') format('truetype');
+    font-weight: bold;
+}
