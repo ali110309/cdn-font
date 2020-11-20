@@ -1,0 +1,55 @@
+@font-face {
+    font-family: Mikhak;
+    font-display: swap;
+    src: url('font/Mikhak/Mikhak-Thin.eot');
+    src: url('font/Mikhak/Mikhak-Thin.eot?#iefix') format('embedded-opentype'),
+    url('font/Mikhak/Mikhak-Thin.woff2') format('woff2'),
+    url('font/Mikhak/Mikhak-Thin.woff') format('woff'),
+    url('font/Mikhak/Mikhak-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: Mikhak;
+    font-display: swap;
+    src: url('font/Mikhak/Mikhak-Light.eot');
+    src: url('font/Mikhak/Mikhak-Light.eot?#iefix') format('embedded-opentype'),
+    url('font/Mikhak/Mikhak-Light.woff2') format('woff2'),
+    url('font/Mikhak/Mikhak-Light.woff') format('woff'),
+    url('font/Mikhak/Mikhak-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Mikhak;
+    font-display: swap;
+    src: url('font/Mikhak/Mikhak-Medium.eot');
+    src: url('font/Mikhak/Mikhak-Medium.eot?#iefix') format('embedded-opentype'),
+    url('font/Mikhak/Mikhak-Medium.woff2') format('woff2'),
+    url('font/Mikhak/Mikhak-Medium.woff') format('woff'),
+    url('font/Mikhak/Mikhak-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Mikhak;
+    font-display: swap;
+    src: url('font/Mikhak/Mikhak-Bold.eot');
+    src: url('font/Mikhak/Mikhak-Bold.eot?#iefix') format('embedded-opentype'),
+    url('font/Mikhak/Mikhak-Bold.woff2') format('woff2'),
+    url('font/Mikhak/Mikhak-Bold.woff') format('woff'),
+    url('font/Mikhak/Mikhak-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: Mikhak;
+    font-display: swap;
+    src: url('font/Mikhak/Mikhak-Black.eot');
+    src: url('font/Mikhak/Mikhak-Black.eot?#iefix') format('embedded-opentype'),
+    url('font/Mikhak/Mikhak-Black.woff2') format('woff2'),
+    url('font/Mikhak/Mikhak-Black.woff') format('woff'),
+    url('font/Mikhak/Mikhak-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
