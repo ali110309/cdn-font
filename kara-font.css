@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Kara;
+    font-display: swap ;
+    src: url('font/Kara/SGKara-Light.eot');
+    src: url('font/Kara/SGKara-Light.eot?#iefix') format('embedded-opentype'),
+    url('font/Kara/SGKara-Light.woff2') format('woff2'),
+    url('font/Kara/SGKara-Light.woff') format('woff'),
+    url('font/Kara/SGKara-Light.ttf') format('truetype');
+    font-weight: 300;
+}
+@font-face {
+    font-family: Kara;
+    font-display: swap ;
+    src: url('font/Kara/SGKara-Regular.eot');
+    src: url('font/Kara/SGKara-Regular.eot?#iefix') format('embedded-opentype'),
+    url('font/Kara/SGKara-Regular.woff2') format('woff2'),
+    url('font/Kara/SGKara-Regular.woff') format('woff'),
+    url('font/Kara/SGKara-Regular.ttf') format('truetype');
+    font-weight: normal;
+}
+@font-face {
+    font-family: Kara;
+    font-display: swap ;
+    src: url('font/Kara/SGKara-SemiBold.eot');
+    src: url('font/Kara/SGKara-SemiBold.eot?#iefix') format('embedded-opentype'),
+    url('font/Kara/SGKara-SemiBold.woff2') format('woff2'),
+    url('font/Kara/SGKara-SemiBold.woff') format('woff'),
+    url('font/Kara/SGKara-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+}
